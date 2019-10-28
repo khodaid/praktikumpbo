@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>Main</name>
+=======
+            <name>tugas aslab modul 1</name>
+>>>>>>> a37adc7de7ff73d7a357827e90d2eefa2442518f
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
